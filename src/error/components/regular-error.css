@@ -1,0 +1,7 @@
+.Centro{
+    display: flex;
+    justify-content: center;
+    flex-wrap:nowrap;
+    flex-direction: column;
+    align-items: center;
+}
